@@ -1,0 +1,22 @@
+{
+  "name": "BegExNode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.0.0-rc2",
+    "jade": "~1.3.0"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt": "~0.4.2",
+    "grunt-coffeelint": "0.0.8",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
